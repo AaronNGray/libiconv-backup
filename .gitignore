@@ -511,3 +511,12 @@ autom4te.cache/
 .#*
 \#*#
 
+# Visual Studio 2017
+Debug/
+Debug DLL/
+Release/
+Release DLL/
+*.VC.db
+*.VC.opendb
+ipch/
+
